@@ -92,3 +92,56 @@ Esta guía de ejercicios está diseñada para ayudar a quienes se inician en la 
     Ingresar una cantidad de días y calcular cuántos minutos representan.
     *(Fórmula: `días * 24 * 60`)*
 
+23. **Leer un número entero e informar si este es menor que diecisiete**
+    Pedir un número entero y mostrar si es menor que 17.
+
+24. **Leer un número e informar si este está comprendido en el intervalo Cero-Diecisiete**
+    Pedir un número y mostrar si está entre 0 y 17 (inclusive).
+
+25. **Leer un número e informar si está comprendido en el intervalo A-S**
+    Leer dos números A y S, luego pedir un número y mostrar si está dentro del intervalo \[A, S].
+
+26. **Leer dos números e indicar si la suma es mayor que 730**
+    Pedir dos números y mostrar si la suma de ambos es mayor que 730.
+
+27. **Dados dos números, indicar si son distintos**
+    Leer dos números y mostrar si son distintos.
+
+28. **Leer tres números, indicar si son distintos**
+    Leer tres números y mostrar si son distintos entre sí.
+
+29. **Leer base y altura, calcular perímetro de un rectángulo e informar si es cuadrado**
+    Leer la base y la altura de un rectángulo, calcular el perímetro y verificar si es un cuadrado.
+
+30. **Leer radio de una circunferencia, calcular perímetro, informar si es mayor que 50**
+    Pedir el radio de una circunferencia, calcular el perímetro (usando la fórmula `2 * π * radio`) y mostrar si es mayor que 50.
+
+31. **Leer dos números, si el segundo es menor, calcular el producto; si no, el cociente del segundo con el primero**
+    Leer dos números. Si el segundo es menor, calcular su producto; de lo contrario, calcular el cociente entre el segundo y el primero.
+
+32. **Leer un número, determinar si su mitad es igual a su raíz cuadrada**
+    Pedir un número y determinar si su mitad es igual a su raíz cuadrada.
+
+33. **Leer un número, determinar si su tercio es igual a su raíz cúbica**
+    Pedir un número y verificar si su tercio es igual a su raíz cúbica.
+
+34. **Leer dos números y sumarlos. Si la suma > 50, calcular raíz cuadrada; si no, el cuadrado**
+    Leer dos números, sumarlos y, si la suma es mayor a 50, calcular la raíz cuadrada; si no, calcular el cuadrado de la suma.
+
+35. **Calcular la parte entera de la raíz cúbica de un valor ≥ 1**
+    Pedir un número y calcular la parte entera de su raíz cúbica.
+
+36. **Leer una distancia en cm, imprimirla en m si es < 1000, si no en km e indicar la unidad**
+    Pedir una distancia en centímetros y convertirla a metros si es menor a 1000, o a kilómetros si es mayor, imprimiendo la unidad correspondiente.
+
+37. **Calcular tiempo de caída desde una altura X (fórmula física simple)**
+    Leer una altura y calcular el tiempo de caída utilizando la fórmula física estándar `t = sqrt(2 * h / g)`, donde `h` es la altura y `g` es la aceleración de la gravedad.
+
+38. **Leer tres números, imprimir en orden ascendente**
+    Leer tres números y mostrarlo en orden ascendente.
+
+39. **Leer un número del 1 al 7, imprimir el nombre del día de la semana**
+    Leer un número entre 1 y 7 y mostrar el nombre correspondiente del día de la semana.
+
+40. **Leer un número entre 0 y 9, imprimirlo en letras**
+    Leer un número entre 0 y 9 y mostrarlo en su forma escrita en letras.
