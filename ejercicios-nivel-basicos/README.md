@@ -134,14 +134,15 @@ Esta guía de ejercicios está diseñada para ayudar a quienes se inician en la 
 36. **Leer una distancia en cm, imprimirla en m si es < 1000, si no en km e indicar la unidad**
     Pedir una distancia en centímetros y convertirla a metros si es menor a 1000, o a kilómetros si es mayor, imprimiendo la unidad correspondiente.
 
-37. **Calcular tiempo de caída desde una altura X (fórmula física simple)**
-    Leer una altura y calcular el tiempo de caída utilizando la fórmula física estándar `t = sqrt(2 * h / g)`, donde `h` es la altura y `g` es la aceleración de la gravedad.
 
-38. **Leer tres números, imprimir en orden ascendente**
+37. **Leer tres números, imprimir en orden ascendente**
     Leer tres números y mostrarlo en orden ascendente.
 
-39. **Leer un número del 1 al 7, imprimir el nombre del día de la semana**
+38. **Leer un número del 1 al 7, imprimir el nombre del día de la semana**
     Leer un número entre 1 y 7 y mostrar el nombre correspondiente del día de la semana.
 
-40. **Leer un número entre 0 y 9, imprimirlo en letras**
+39. **Leer un número entre 0 y 9, imprimirlo en letras**
     Leer un número entre 0 y 9 y mostrarlo en su forma escrita en letras.
+
+40. **Conversión de cadenas a números**
+    Pedir un valor con prompt() y asegurarse de que sea un número antes de operar con él.
