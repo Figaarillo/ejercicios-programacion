@@ -34,6 +34,13 @@
 
 14.En la empresa MZZ', el gerente desea saber cuántos vendedores tienen una antigüedad superior a diez años; para poder realizar el proceso se dispone de los datos siguientes: legajo, sueldo y antigüedad (expresada en años). El proceso termina cuando algún legajo sea igual a cero. TALLER PRÁCTICO–Algoritmos y Estructura de Datos
 
-15. Ingresar por teclado los precios correspondientes a cinco artículos y las cantidades vendidas
-de cada uno de ellos. Calcular e imprimir el importe total de ventas de cada uno y un
-importe total de lo vendido.
+15. Ingresar por teclado los precios correspondientes a cinco artículos y las cantidades vendidas de cada uno de ellos. Calcular e imprimir el importe total de ventas de cada uno y un importe total de lo vendido.
+
+16. Leer una serie de números enteros cuyo último valor sea un numero negativo y no debe ser procesado, indicar cuántos de estos números son pares.
+
+17. En una oficina meteorológica se dispone de las temperaturas máximas y mínimas diarias, a lo largo de un período. Se quieren encontrar las temperaturas mínima, máxima, la máxima de las mínimas y la mínima de las máximas. Se debe ingresar los datos de ambas temperaturas. El proceso cuando la temperatura leída sea (noventa y nueve)
+
+18. En un comercio hay cuatro vendedores y quieren saber, cuál fue el que realizó la venta de mayor importe, y cual la venta de menor importe. Terminar el proceso cuando el importe leído sea cero. los datos se leerán (Codven, Importevendido).
+
+19. En una empresa se desea saber cuántos empleados tienen un sueldo superior a $25.000. Se dispone como dato el número del legajo y el sueldo de cada uno de los empleados. El proceso termina cuando el número de legajo leído sea igual a cero.
+
